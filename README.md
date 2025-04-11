@@ -1,4 +1,2 @@
-# Restaurant Page
-This is a restaurant-based web project, developed HTML, CSS and JS, and managed with webpack for better code organization and optimization.
-
-Live Preview: https://vilcoder.github.io/restaurant-page/
+# Template
+This repository is a base template for future JavaScript projects. It includes the minimum configuration necessary to work in an organized and professional manner from the start.
